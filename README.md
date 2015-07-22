@@ -6,4 +6,4 @@ With this small repository I want to establish a collaborative way to share prac
 In order to do that I start with a collection of links which hint to practical methods encouriging developers to work operations guys and vice versa!
 
 ## collaboration wins
-* http://blog.softwareoperability.com/2013/10/16/operability-can-improve-if-developers-write-a-draft-run-book/
+* draft-run-book (http://blog.softwareoperability.com/2013/10/16/operability-can-improve-if-developers-write-a-draft-run-book/)
