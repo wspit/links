@@ -7,3 +7,4 @@ In order to do that the start is a collection of links which hint to practical m
 
 ## collaboration wins
 * draft-run-book (http://blog.softwareoperability.com/2013/10/16/operability-can-improve-if-developers-write-a-draft-run-book/)
+* http://cloudcomputing.sys-con.com/node/3410614
