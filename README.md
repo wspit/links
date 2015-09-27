@@ -1,7 +1,7 @@
 # introducing DevOps the practical way
 
 ## preamble
-With this small repository I want to establish a collaborative way to share practical ideas on how to establish a culture which supports the idea to deliver value to the customer in a fast and reliable way. 
+With this small repository I want to encourage a collaborative way to share practical ideas on how to establish a culture which supports the idea to deliver value to the customer in a fast and reliable way. 
 
 In order to do that the start is a collection of links which hint to practical methods encouraging developers to work operations guys and vice versa!
 
